@@ -39,4 +39,25 @@ Developed by: RegisterNumber:
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
+Logic Diagram:
+![EXP10 LOGIC DIAGRAM](https://github.com/user-attachments/assets/57bc51bd-998e-40a1-a6b6-26d719c58d81)
+
+
+
+
+
+
+
+
+State Diagram:
+![EXP10 STATE DIAGRAM](https://github.com/user-attachments/assets/ffc9b0c2-0e01-45cb-822c-f7d557c63c51)
+
+
+
+
+
+
+
+
+
 **RESULTS**
